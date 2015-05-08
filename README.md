@@ -15,7 +15,7 @@ A description of the algorithm cn be found on my [website](http://emmanueljohn.m
 
 **Input format**
 
-Input is in DIMACS format and can be generated with [netgen](http://).
+Input is in DIMACS format and can be generated with [netgen](http://github.com/emmanuj/netgen).
 
 DIMACS format is line-oriented. The type of record a line contains is
 indicated by the character in position 1.
